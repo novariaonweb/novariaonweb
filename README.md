@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @novariaonweb
 - 👀 I’m interested in maps, geography, creating fictional countries, programming and travelling
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming (HTML, CSS and Bootstrap)
 - 📫 How to reach me: Email: ahaancoding11@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I understand math
